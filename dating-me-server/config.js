@@ -50,6 +50,7 @@ module.exports = {
           announcedIp: null,
         },
         // { ip: '10.26.234.136', announcedIp: null },
+        // 这里改成你的局域网地址(必须)
         { ip: '10.0.0.8', announcedIp: null },
       ],
       maxIncomingBitrate: 1500000,
